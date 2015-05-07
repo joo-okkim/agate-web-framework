@@ -1,0 +1,1 @@
+AGATE WEB Framework is a web framework build to create simple or complex websites fast and easy.
